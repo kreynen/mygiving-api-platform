@@ -13,12 +13,12 @@
         "symfony/flex": "^1.1",
         "symfony/framework-bundle": "5.0.*",
         "symfony/mercure-bundle": "^0.2",
+        "symfony/profiler-pack": "^1.0",
         "symfony/yaml": "5.0.*"
     },
     "require-dev": {
         "api-platform/schema-generator": "^2.1",
-        "symfony/maker-bundle": "^1.11",
-        "symfony/profiler-pack": "^1.0"
+        "symfony/maker-bundle": "^1.11"
     },
     "conflict": {
         "symfony/symfony": "*"
